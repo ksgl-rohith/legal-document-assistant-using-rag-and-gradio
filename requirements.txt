@@ -1,0 +1,12 @@
+gradio
+faiss-cpu
+sentence-transformers
+openai
+pandas
+numpy
+requests
+pypdf2
+python-docx
+scikit-learn
+torch
+transformers
